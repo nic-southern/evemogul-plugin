@@ -1,0 +1,13 @@
+{
+  "name": "eve-mogul",
+  "displayName": "EVE Mogul",
+  "version": "1.0.0",
+  "description": "EVE Mogul market, industry, and character data for Cursor and Grok",
+  "author": {
+    "name": "EVE Mogul"
+  },
+  "homepage": "https://www.evemogul.com",
+  "license": "MIT",
+  "keywords": ["eve-online", "market", "industry", "trading"],
+  "logo": "assets/logo.svg"
+}
