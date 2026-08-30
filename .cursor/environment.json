@@ -1,0 +1,4 @@
+{
+  "name": "EVE Mogul plugin",
+  "install": "./scripts/validate-plugin.sh"
+}
